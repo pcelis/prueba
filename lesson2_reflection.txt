@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 .git appears. You do it to summon git tools
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It offers another layer where you can look for the documents that will be committed
+
