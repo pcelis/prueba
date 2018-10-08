@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git appears. You do it to summon git tools
