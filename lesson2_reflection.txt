@@ -4,3 +4,18 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It offers another layer where you can look for the documents that will be committed
 
+How can you use the staging area to make sure you have one commit per logical change?
+You can put a logical change in the staging area anf then commit it. 
+do that for every logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When an experimental feature is tried.
+When a parallel version is developed.
+When the game is translated.
+Have a master branch, always work
+Have a developer, fixing bugs here
+Have a exp, like beta versions
+Create a branch when fixing one bug so if you get tire you can go to another branch to fix another bug
+
+How do the diagrams help you visualize the branch structure?
+Makes it easier to see unreachable commits
